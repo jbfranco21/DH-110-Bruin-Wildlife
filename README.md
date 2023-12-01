@@ -2,11 +2,9 @@
 ## Introduction
 This documentation outlines the relevant files, pitch deck, and project report for the DH 110 design project. Our project prompt was the following:
 
-"From the beach to the local mountains and desert, there are both diverse ecologies and outdoor recreation opportunities in the region. Even within the bus or biking distance from campus, one can find an expansive network of hiking trails, parks, and beaches. There are well documented benefits to spending time outside and in wild landscapes. How can we enable undergraduate students at UCLA to engage with the natural ecologies and outdoor recreation opportunities available in Los Angeles and Southern California? What are the barriers that keep students from participating in outdoor recreation? And once they do engage in outdoor recreation, is it possible to foster learning and appreciation of wild and urban ecologies? Is it possible to connect students to opportunities to volunteer or act as stewards of the natural landscapes and biodiversity of the region? There are groups and organizations on campus that support outdoor recreation and learning. Choosing this prompt will necessitate leaving campus in some capacity." 
+"From the beach to the local mountains and desert, there are both diverse ecologies and outdoor recreation opportunities in the region. Even within the bus or biking distance from campus, one can find an expansive network of hiking trails, parks, and beaches. There are well-documented benefits to spending time outside and in wild landscapes. How can we enable undergraduate students at UCLA to engage with the natural ecologies and outdoor recreation opportunities available in Los Angeles and Southern California? What are the barriers that keep students from participating in outdoor recreation? And once they do engage in outdoor recreation, is it possible to foster learning and appreciation of wild and urban ecologies? Is it possible to connect students to opportunities to volunteer or act as stewards of the natural landscapes and biodiversity of the region? There are groups and organizations on campus that support outdoor recreation and learning. Choosing this prompt will necessitate leaving campus in some capacity." 
 
-This document outlines our project solution to this prompt: Bruin Wildlife, a website dedicated to informing UCLA students about outdoor spaces on and off campus based on input from Bruins, promoting student groups dedicated to natural spaces, and helping students plan their off-campus trips to improve the experience of planning amongst students. Below our the files for the initial planning process, our finalized pitch deck and project report, and our various design and document files correlating to the process outlined in our project report and pitch deck. 
-
-
+This document outlines our project solution to this prompt: Bruin Wildlife, a website dedicated to informing UCLA students about outdoor spaces on and off campus based on input from Bruins, promoting student groups dedicated to natural spaces, and helping students plan their off-campus trips to improve the experience of planning amongst students. Below are the files for the initial planning process, our finalized pitch deck and project report, and our various design and document files correlating to the process outlined in our project report and pitch deck.
 
 Team Members: Lauren Lee, Jessica Franco, Austin Liu
 
@@ -18,6 +16,9 @@ Project Plan and Abstract Assignment: [LINK](https://endurable-insect-2ae.notion
 Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.site/Resources-Hi-Fidelity-b0b080d0bd544d029e574a805f70b394?pvs=4)
 
 ## Pitch Deck
+Video:
+
+File:
 ## Project Report
 ## Files
 Lo-fi Mockups: [Lofi Design](https://www.figma.com/file/GO0dtDa4ykOMiifLfNXZCO/Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=NP9MO6r2iVkIjvlw-1)
