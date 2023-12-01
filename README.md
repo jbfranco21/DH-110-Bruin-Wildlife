@@ -12,12 +12,18 @@ Resources for Hi-fidelity Designing:
 ## Pitch Deck
 ## Project Report
 ## Files
-Research:
-Lo-fi Mockups:
+Lo-fi Mockups: [Lofi Design](https://www.figma.com/file/Dj21Cz3HLAm8e55kppl7sT/Information-Architecture?type=whiteboard&node-id=0%3A1&t=Bpsn4xaEgv3vjIrG-1)
+
 User Persona:
+
 Information Architecture:
+
 Inspiration File:
+
 Design System:
+
 First Round Hi-fi Mockups:
+
 Usability Test Script:
+
 Final Hi-fi Mockup:
