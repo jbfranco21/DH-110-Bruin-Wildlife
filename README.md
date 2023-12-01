@@ -6,8 +6,9 @@ This documentation outlines the relevant files, pitch deck, and project report f
 Team Members: Lauren Lee, Jessica Franco, Austin Liu
 
 ## Team Space
-Product Roadmap:
-Resources for Hi-fidelity Designing:
+Product Roadmap:[LINK](https://endurable-insect-2ae.notion.site/Product-Roadmap-0da12129fc074f9dbd113c6efcdd8396?pvs=4)
+
+Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.site/Resources-Hi-Fidelity-b0b080d0bd544d029e574a805f70b394?pvs=4)
 
 ## Pitch Deck
 ## Project Report
