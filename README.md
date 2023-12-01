@@ -8,6 +8,8 @@ Team Members: Lauren Lee, Jessica Franco, Austin Liu
 ## Team Space
 Product Roadmap:[LINK](https://endurable-insect-2ae.notion.site/Product-Roadmap-0da12129fc074f9dbd113c6efcdd8396?pvs=4)
 
+Project Plan and Abstract Assignment: [LINK](https://endurable-insect-2ae.notion.site/Assignment-3-Project-Abstract-and-Plan-0c7dc2cc4cad45909c7598004e1c6d3a?pvs=4)
+
 Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.site/Resources-Hi-Fidelity-b0b080d0bd544d029e574a805f70b394?pvs=4)
 
 ## Pitch Deck
