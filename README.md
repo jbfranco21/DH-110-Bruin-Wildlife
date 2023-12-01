@@ -9,7 +9,7 @@ This document outlines our project solution to this prompt: Bruin Wildlife, a we
 Team Members: Lauren Lee, Jessica Franco, Austin Liu
 
 ## Team Space
-Product Roadmap:[LINK](https://endurable-insect-2ae.notion.site/Product-Roadmap-0da12129fc074f9dbd113c6efcdd8396?pvs=4)
+Product Roadmap: [LINK](https://endurable-insect-2ae.notion.site/Product-Roadmap-0da12129fc074f9dbd113c6efcdd8396?pvs=4)
 
 Project Plan and Abstract Assignment: [LINK](https://endurable-insect-2ae.notion.site/Assignment-3-Project-Abstract-and-Plan-0c7dc2cc4cad45909c7598004e1c6d3a?pvs=4)
 
