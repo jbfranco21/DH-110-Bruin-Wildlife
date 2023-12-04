@@ -18,7 +18,7 @@ Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.
 ## Pitch Deck
 Presentation Video: [DH110: Bruin Wildlife](https://youtu.be/Kttz9KPMhno?si=CyGHcNqMgnwq7OP4)
 
-Pitch Deck File: [Pitch Deck] (https://docs.google.com/presentation/d/1uqpd72BKltXo6KEBhG_T7zLrlky5GVoZGtQLYk2GHGw/edit?usp=sharing)
+Pitch Deck File: [Pitch Deck](https://docs.google.com/presentation/d/1uqpd72BKltXo6KEBhG_T7zLrlky5GVoZGtQLYk2GHGw/edit?usp=sharing)
 
 
 ## Project Report
