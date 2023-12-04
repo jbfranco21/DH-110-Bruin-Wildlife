@@ -1,4 +1,4 @@
-# DH-110-Bruin-Wildlife
+[Slide Deck.pdf](https://github.com/jbfranco21/DH-110-Bruin-Wildlife/files/13541969/Slide.Deck.pdf)# DH-110-Bruin-Wildlife
 ## Introduction
 This documentation outlines the relevant files, pitch deck, and project report for the DH 110 design project. Our project prompt was the following:
 
@@ -18,7 +18,9 @@ Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.
 ## Pitch Deck
 Presentation Video: [DH110: Bruin Wildlife](https://youtu.be/Kttz9KPMhno?si=CyGHcNqMgnwq7OP4)
 
-File:
+Pitch Deck File: [Pitch Deck] (https://docs.google.com/presentation/d/1uqpd72BKltXo6KEBhG_T7zLrlky5GVoZGtQLYk2GHGw/edit?usp=sharing)
+
+
 ## Project Report
 ## Files
 Lo-fi Mockups: [Lofi Design](https://www.figma.com/file/GO0dtDa4ykOMiifLfNXZCO/Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=NP9MO6r2iVkIjvlw-1)
