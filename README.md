@@ -1,4 +1,4 @@
-[Slide Deck.pdf](https://github.com/jbfranco21/DH-110-Bruin-Wildlife/files/13541969/Slide.Deck.pdf)# DH-110-Bruin-Wildlife
+# DH-110-Bruin-Wildlife
 ## Introduction
 This documentation outlines the relevant files, pitch deck, and project report for the DH 110 design project. Our project prompt was the following:
 
