@@ -16,7 +16,7 @@ Project Plan and Abstract Assignment: [LINK](https://endurable-insect-2ae.notion
 Resources for Hi-fidelity Designing: [LINK](https://endurable-insect-2ae.notion.site/Resources-Hi-Fidelity-b0b080d0bd544d029e574a805f70b394?pvs=4)
 
 ## Pitch Deck
-Video:
+Presentation Video: [DH110: Bruin Wildlife](https://youtu.be/Kttz9KPMhno?si=CyGHcNqMgnwq7OP4)
 
 File:
 ## Project Report
