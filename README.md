@@ -21,6 +21,8 @@ Presentation Video: [DH110: Bruin Wildlife](https://youtu.be/Kttz9KPMhno?si=CyGH
 Pitch Deck File: [Pitch Deck](https://docs.google.com/presentation/d/1uqpd72BKltXo6KEBhG_T7zLrlky5GVoZGtQLYk2GHGw/edit?usp=sharing)
 
 ## Project Report
+Project Report File: [Project Report](https://docs.google.com/document/d/1uLuwLRYEn5a9qDKkpdPUYapA_8zJ5F5hDY7QoFwEZSE/edit?usp=sharing)
+
 ## Files
 Lo-fi Mockups: [Lofi Design](https://www.figma.com/file/GO0dtDa4ykOMiifLfNXZCO/Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=NP9MO6r2iVkIjvlw-1)
 
