@@ -9,6 +9,8 @@ This document outlines our project solution to this prompt: Bruin Wildlife, a we
 Team Members: Lauren Lee, Jessica Franco, Austin Liu
 
 ## Team Space
+These files relate to our project schedule, abstract, overview of project plan, and various resources we utilized while creating mockups. 
+
 Product Roadmap: [LINK](https://endurable-insect-2ae.notion.site/Product-Roadmap-0da12129fc074f9dbd113c6efcdd8396?pvs=4)
 
 Project Plan and Abstract Assignment: [LINK](https://endurable-insect-2ae.notion.site/Assignment-3-Project-Abstract-and-Plan-0c7dc2cc4cad45909c7598004e1c6d3a?pvs=4)
@@ -21,9 +23,13 @@ Presentation Video: [DH110: Bruin Wildlife](https://youtu.be/Kttz9KPMhno?si=CyGH
 Pitch Deck File: [Pitch Deck](https://docs.google.com/presentation/d/1uqpd72BKltXo6KEBhG_T7zLrlky5GVoZGtQLYk2GHGw/edit?usp=sharing)
 
 ## Project Report
+Project report includes an overview of our process designing our website, our findings, research and ideation, mockup explanations, and future plans for our website.
+
 Project Report File: [Project Report](https://docs.google.com/document/d/1uLuwLRYEn5a9qDKkpdPUYapA_8zJ5F5hDY7QoFwEZSE/edit?usp=sharing)
 
 ## Files
+Files include the mockup iterations, information architecture, user personas, inspiration for design, etc. when creating and organizing research for our product.
+
 Lo-fi Mockups: [Lofi Design](https://www.figma.com/file/GO0dtDa4ykOMiifLfNXZCO/Lofi-Mockups?type=design&node-id=0%3A1&mode=design&t=NP9MO6r2iVkIjvlw-1)
 
 User Persona: [User Persona](https://www.figma.com/file/hFoVl0CG61P4f48YJX2DZr/User-Personas?type=whiteboard&node-id=0%3A1&t=HVEdbsD2RSkhwdLT-1)
